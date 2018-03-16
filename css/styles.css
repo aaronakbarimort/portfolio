@@ -77,3 +77,19 @@
   justify-content: center;
   align-items: flex-start;
 }
+
+
+/* Skills section */
+.skills {
+  padding: 0 50px 50px 50px;
+  background-image: url(../img/groovepaper.png);
+}
+
+#skills-h2 {
+  text-align: center;
+  margin: 50px 0 0 0;
+}
+
+.row-skills {
+  margin: 50px 0 50px 0;
+}
