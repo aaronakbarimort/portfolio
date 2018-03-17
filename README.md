@@ -4,6 +4,8 @@
 
 ## By Aaron Akbari-Mort
 
+[Link to project- Aaron](https://aaronakbarimort.github.io/portfolio)
+
 ## Description
 
 Portfolio website for the first week Epicodus Independent Projects Overview.
